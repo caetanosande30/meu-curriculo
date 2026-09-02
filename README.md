@@ -1,6 +1,4 @@
-# meu-curriculo
-
-# Meu Currículo — Site Pessoal (HTML5 + CSS3 Puro)
+# Meu Currículo —(HTML5 + CSS3 Puro)
 **Curso Licenciatura em Informática 
 #2º ano — Universidade Licungo
 #Faculdade de Ciências e Tecnologias
